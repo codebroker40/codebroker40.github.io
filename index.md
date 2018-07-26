@@ -4,8 +4,8 @@ I'm really passionate about desktop customization, also known as 'ricing'.
 Ricing has two parts: Form and function.  The form aspect is the part that
 attracts new ricers, the pure looks. Take a look at [this rice](https://imgur.com/gallery/KD1FZ).
 We see opacity levels adjusted, taskbar re-done, wallpapers with matching color schemes, and 
-what it looks like to actually use.  What is often unseen to a new ricer is the function of
-rice.  The desktop environment (i3 in this case) uses many keyboard shortcuts all
+what it looks like to the eye.  What is often unseen to a new ricer is the function of
+rice, what it's like to actually use.  The desktop environment (i3 in this case) uses many keyboard shortcuts all
 utilizing the meta key (or windows key) for incredible efficiency.  The music player is also can be
 easily controlled with two simple keyboard shortcuts also.  The text editor (emacs) is the most
 powerful text editor of all time, and here it has a custom color scheme with syntax highlighting
