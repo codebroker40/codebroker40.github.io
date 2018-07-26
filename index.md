@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+### Welcome to the Rice Farm
 
-You can use the [editor on GitHub](https://github.com/ColeW-Picaro/ColeW-Picaro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ColeW-Picaro/ColeW-Picaro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm really passionate about desktop customization, also known as 'ricing'. 
+Ricing has two parts: Form and function.  The form aspect is the part that
+attracts new ricers, the pure looks. Take a look at [this rice](https://imgur.com/gallery/KD1FZ).
+We see opacity levels adjusted, taskbar re-done, wallpapers with matching color schemes, and 
+what it looks like to actually use.  What is often unseen to a new ricer is the function of
+rice.  The desktop environment (i3 in this case) uses many keyboard shortcuts all
+utilizing the meta key (or windows key) for incredible efficiency.  The music player is also can be
+easily controlled with two simple keyboard shortcuts also.  The text editor (emacs) is the most
+powerful text editor of all time, and here it has a custom color scheme with syntax highlighting
+for specific languages.  **It's all here**, __exactly__ the way the user (me) wanted it.  Every
+single detail was tinkered with until I was forced to study for finals, every config file ruined
+with commented out lines that didn't work, every package I abandoned left in my bin for my
+package manager to clean up later (never).  But how did it get there? Well, truthfully, it was a
+lot of reading about what other people did and about what problems they had.  In this
+community, the odds you're the first to have a specific problem are very slim, but sometimes
+finding a solution is tricky.  This site tries to alleviate that problem.  I'm
+here to take ricing step-by-step purely for your convenience.  Please enjoy.
