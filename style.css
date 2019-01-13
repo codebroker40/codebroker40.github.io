@@ -19,7 +19,7 @@
 	}
 
 	#Title {
-		font-family: 'UD Digi Kyokasho N-R', sans-serif;
+		font-family: 'League Gothic', sans-serif;
 		color: var(--main-text);
 		font-size: 60px;
 		position: relative;
@@ -28,10 +28,11 @@
 	}
 
 	#searchbox{
-		width: 50%;
+		width: 60%;
 		height: 50px;
 		border: none;
 		border-radius: 20px;
+		text-align: center;
 		outline: none;
 		background-color: #302f33;
 		color: var(--main-text);
@@ -46,7 +47,7 @@
 	}
 
 	#mainframe {
-		width: 80%;
+		width: 100%;
 		position: relative;
 		padding: 15px;
 		margin: 0 auto;
