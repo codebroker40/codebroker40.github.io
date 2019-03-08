@@ -12,19 +12,16 @@
   <!-- LB -->
 
 <item>
-<title></title>
-<guid>https://lukesmith.xyz/2019.html#Blogging-With-LB.html</guid>
-<pubDate>Fri, 08 Mar 2019 00:33:09 -0500</pubDate>
+<title>Twitter</title>
+<guid>https://ColeW-Picaro.github.io/2019.html#twitter.html</guid>
+<pubDate>Fri, 08 Mar 2019 00:52:03 -0500</pubDate>
 <description><![CDATA[
-<div id=Title>Blogging with LB</div>
-<p>
-  Hi, I'm Cole, and I decided I wanted to start a blog so I could use emacs more. If you wanna read it fine, sure, cool, nice; also there's an RSS feed on the right, so hit that up. This blog is obviously hosted with Github pages (maybe I'll set up a webserver one day) using lb, or <a href="https://github.com/LukeSmithxyz/lb">Luke Smith's Blog Script</a>. It's kinda sick, so check it out.
-  <br>
-  <br>
-  -Cole
-</p>
+<div id=Title>Twit</div>
+<p>Check me out: <a href="https://twitter.com/ColeW-Picaro">twit</a></p>
 ]]></description>
 </item>
+
+
 
 
 
