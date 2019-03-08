@@ -4,38 +4,12 @@
   
   <channel>
   <title>ColeW</title>
-  <description>ColeW's bullshit.</description>
+  <description>ColeW's b(log)ullshit</description>
   <language>en-us</language>
   <link>http://ColeW-Picaro.github.io/rss.xml</link>
   <atom:link href="http://ColeW-Picaro.github.io/rss.xml" rel="self" type="application/rss+xml" />
 
   <!-- LB -->
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>Options +Indexes
-This is a test post
- </title>
-<guid>https://lukesmith.xyz/2019.html#</guid>
-<pubDate>Options +IndexesAddDescription "This is a test postThu, 07 Mar 2019 23:00:17 -0500Thu, 07 Mar 2019 23:09:48 -0500</pubDate>
-<description><![CDATA[
-
-]]></description>
-</item>
-
-
-
-
-
 
   </channel>
 </rss>
