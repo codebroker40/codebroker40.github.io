@@ -23,7 +23,7 @@ body {
     top: 5px;
     right: 5px;
     font-size: 20pt;
-    
+    text-align: right;
 }
 
 #Title {
@@ -85,7 +85,6 @@ body {
     font-family: 'Open Sans', sans-serif;
     width:15%;
     height: 230px;
-    /*background-color: crimson; /*DEBUG*/
     margin-left:10px;
     margin-right:10px;
     margin-top:00px;
@@ -127,3 +126,34 @@ a:hover { text-decoration:none; font-weight:normal; color:var(--alt-text); }
 a:active { text-decoration:none; font-weight:normal; color:var(--main-text); }
 a:focus { text-decoration:none; font-weight:normal; color:var(--main-text); }
 
+
+.entry a {color: var(--main-text); }
+.entry a:hover {color: lightblue; }
+
+.entry {
+    border-left: 15px solid var(--main-text);
+    padding: 5px 10px 10px 10px;
+    border-radius: 0 30px 30px 0;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    background-color: darkslateblue;
+    opacity: 0.80;
+    font-family: 'Open Sans Italic', sans-serif;
+    width: 50%;
+    margin-left: 15%;
+    color: white;
+}
+
+.entry p {
+    color: white;
+    font-size: 14pt;
+    padding: 0px 0px 0px 20px;
+    margin-top: 0;
+}
+
+.entry h1 {
+    margin-bottom: 0px;
+    font-family: 'League Gothic';
+    color: #FAEBD7;
+    font-size: 32pt;
+}
