@@ -11,6 +11,28 @@
 
   <!-- LB -->
 
+<item>
+<title></title>
+<guid>https://lukesmith.xyz/2019.html#Blogging-With-LB.html</guid>
+<pubDate>Fri, 08 Mar 2019 00:33:09 -0500</pubDate>
+<description><![CDATA[
+<div id=Title>Blogging with LB</div>
+<p>
+  Hi, I'm Cole, and I decided I wanted to start a blog so I could use emacs more. If you wanna read it fine, sure, cool, nice; also there's an RSS feed on the right, so hit that up. This blog is obviously hosted with Github pages (maybe I'll set up a webserver one day) using lb, or <a href="https://github.com/LukeSmithxyz/lb">Luke Smith's Blog Script</a>. It's kinda sick, so check it out.
+  <br>
+  <br>
+  -Cole
+</p>
+]]></description>
+</item>
+
+
+
+
+
+
+
+
   </channel>
 </rss>
 

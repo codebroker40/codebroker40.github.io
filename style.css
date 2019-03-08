@@ -24,6 +24,16 @@ body {
     right: 5px;
     font-size: 20pt;
     text-align: right;
+    padding: 5px;
+    background-color: darkslateblue;
+    border-radius: 10px 0px 0px 10px;
+    border-right: 15px solid var(--main-text);
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+#sitelinks a {
+    color: white;
 }
 
 #Title {
@@ -82,12 +92,12 @@ body {
 }
 
 #linkblock {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'UD Digi Kyokasho N-R', sans-serif;
     width:15%;
     height: 230px;
     margin-left:10px;
     margin-right:10px;
-    margin-top:00px;
+    margin-top:5px;
     margin-bottom:00px;
     padding-left:0px;
     padding-right:0px;
@@ -127,7 +137,7 @@ a:active { text-decoration:none; font-weight:normal; color:var(--main-text); }
 a:focus { text-decoration:none; font-weight:normal; color:var(--main-text); }
 
 
-.entry a {color: var(--main-text); }
+.entry a {color: lightblue; }
 .entry a:hover {color: lightblue; }
 
 .entry {
@@ -152,6 +162,13 @@ a:focus { text-decoration:none; font-weight:normal; color:var(--main-text); }
 }
 
 .entry h1 {
+    margin-bottom: 0px;
+    font-family: 'League Gothic';
+    color: #FAEBD7;
+    font-size: 32pt;
+}
+
+.entry #Title {
     margin-bottom: 0px;
     font-family: 'League Gothic';
     color: #FAEBD7;
