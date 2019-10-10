@@ -38,7 +38,7 @@ body {
 }
 
 #Title, h1 {
-    font-family: 'League Gothic', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: var(--main-text);
     font-size: 60px;
     position: relative;
