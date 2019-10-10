@@ -14,8 +14,9 @@
 }
 
 body {
-    background-image: url("background.jpg");
-    background-repeat: no-repeat;
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-color: dimgray;
 }
 
 #sitelinks {
