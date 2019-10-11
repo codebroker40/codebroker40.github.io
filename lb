@@ -1,12 +1,13 @@
 #!/bin/bash
-name="Luke Smith"
+name="Cole Vohs"
 webdir="$(pwd)"
 website="https://ColeW-Picaro.github.io/" # Keep a trailing slash.
 css="style.css"
 blogfile="2019.html"
 indexfile="blogindex.html"
 rssfile="rss.xml"
-EDITOR="vim"
+EDITOR="emacsnw.sh"
+
 
 [ ! -d blog/.drafts ] &&
     read -erp "Initialize blog in $webdir?" ask &&
