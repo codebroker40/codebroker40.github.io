@@ -10,7 +10,7 @@
   </div>
   <div id=stripe>
     <div id="Title">Welcome Home</div>
-    <input id="searchbox" placeholder="type" type="text"></input>
+    <input id="searchbox" placeholder="type" type="text">
     <ul>
       <li><a href="https://twitter.com/">Twitter</a></li>
       <li><a href="https://www.youtube.com/">YouTube</a></li>
