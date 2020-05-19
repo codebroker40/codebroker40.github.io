@@ -6,8 +6,8 @@
 </head>
 <body>
   <div id="sitelinks">
-    <a href="index.md">Home</a><br>
-	<a href="blog/05192020.md">Blog</a>
+    <a href="index.html">Home</a><br>
+	<a href="blog/blogindex.html">Blog</a>
   </div>
   <div id=stripe>
     <div id="Title">Welcome Home</div>
