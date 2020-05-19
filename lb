@@ -2,11 +2,10 @@
 name="Cole Vohs"
 webdir="$(pwd)"
 website="https://ColeW-Picaro.github.io/" # Keep a trailing slash.
-css="style.css"
-blogfile="2019.html"
+blogfile="2020.html"
 indexfile="blogindex.html"
 rssfile="rss.xml"
-EDITOR="emacsnw.sh"
+EDITOR="emacs"
 
 
 [ ! -d blog/.drafts ] &&

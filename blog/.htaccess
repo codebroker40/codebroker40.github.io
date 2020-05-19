@@ -1,10 +1,3 @@
 Options +Indexes
-AddDescription "My twitter bot is back up" "my-twitter-bot-is-back-up.html" #Thu, 14 Mar 2019 04:36:07 +0000
-AddDescription "I do a Podcast" "i-do-a-podcast.html" #Fri, 15 Mar 2019 00:12:21 +0000
-AddDescription "Piano Cover - Tiny Dancer" "piano-cover-tiny-dancer.html" #Sat, 30 Mar 2019 22:55:55 +0000
-AddDescription "Ditching Facebook - One Year Update" "ditching-facebook-one-year-update.html"
-AddDescription "Album A Day: Coffee and Cigarettes by Jazzinuf
-Album a Day: Coffee and Cigarettes by Jazzinuf" "album-a-day-coffee-and-cigarettes-by-jazzinuf.html" #Thu, 10 Oct 2019 15:36:12 -0500
-AddDescription "Album A Day: Luv(sic) Hexalogy by Nujabes" "album-a-day-luvsic-hexalogy-by-nujabes.html" #Fri, 11 Oct 2019 11:23:08 -0500
-AddDescription "test" "test.html"
-AddDescription "test" "test.html"
+AddDescription "#100DaysToOffload My Favorite STL Data Structure" "100daystooffload-my-favorite-stl-data-structure.html"
+AddDescription "#100DaysToOffload My Favorite STL Container" "100daystooffload-my-favorite-stl-container.html" #Tue, 19 May 2020 15:36:04 -0400
