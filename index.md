@@ -7,7 +7,7 @@
 <body>
   <div id="sitelinks">
     <a href="index.html">Home</a><br>
-	<a href="blog/blogindex.html">Blog</a>
+	<a href="blogindex.html">Blog</a>
   </div>
   <div id=stripe>
     <div id="Title">Welcome Home</div>
