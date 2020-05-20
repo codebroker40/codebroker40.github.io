@@ -3,12 +3,11 @@
 	<title>time to open twitter...</title>
 	<link rel="shortcut icon" href="favicon.ico">
 </head>
-<body>
-	<div id="sitelinks">
-	<a href="index.html">Home</a><br>
-	<a href="blogindex.html">Blog</a>
-	</div>
-<div id="Title">Welcome Home</div>
+
+<a href="index.html">Home</a>
+<a href="blogindex.html">Blog</a>
+
+# Welcome Home
 <input id="searchbox" placeholder="type" type="text">
 -<a href="https://twitter.com/">Twitter</a>
 -<a href="https://www.youtube.com/">YouTube</a>
