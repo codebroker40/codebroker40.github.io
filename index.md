@@ -8,7 +8,9 @@
 <a href="blogindex.html">Blog</a>
 
 # Welcome Home
+
 <input id="searchbox" placeholder="type" type="text">
+
 -<a href="https://twitter.com/">Twitter</a>
 -<a href="https://www.youtube.com/">YouTube</a>
 -<a href="https://www.twitch.tv/colew_picaro">Twitch</a>
@@ -27,6 +29,6 @@
 -<a href="https://alpha.wallhaven.cc">Wallhaven</a>
 -<a href="https://lichess.org">Lichess</a>
 -<a href="https://hckrnews.com/">Hckrnews</a>
-</body>
+
 <script src="search.js" type="text/javascript"></script>
 
