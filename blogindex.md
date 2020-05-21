@@ -9,5 +9,5 @@
   <a href="blog/blogindex.html">Blog</a>
 </div>
 # Posts or something
-- [My Favorite STL Container](https://colew-picaro.github.io/blog/05192020.html)	
-
+- [My Favorite STL Container](blog/05192020.html)	
+- [Machine Learning Writes Half of my Code](blog/05202020.md)
