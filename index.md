@@ -1,17 +1,18 @@
 <head>
-	<meta charset="UTF-8">
-	<title>time to open twitter...</title>
-	<link rel="shortcut icon" href="favicon.ico">
+<meta charset="UTF-8">
+<title>time to open twitter...</title>
+<link rel="shortcut icon" href="favicon.ico">
 </head>
 
-<a href="index.html">Home</a>
-<a href="blogindex.html">Blog</a>
+<a href="index.html">Home</a>  
+<a href="blogindex.html">Blog</a>  
 
 # Welcome Home
 
 <input id="searchbox" placeholder="type" type="text">
 
-<div class="links" id="general" markdown="1">
+<div class="links">
+<div id="general" markdown="1">
 
 ### GENERAL
 
@@ -23,7 +24,7 @@
 - <a href="https://www.gmail.com">Mail</a>  
 </div>
 
-<div class="links" id="uni" markdown="1">
+<div id="uni" markdown="1">
 
 ### UNI
 
@@ -34,7 +35,7 @@
 - <a href="https://autolab.millersville.edu">Autolab</a>  
 </div>
 
-<div class="links" id="other" markdown="1">
+<div id="other" markdown="1">
 
 ### BS
 
@@ -44,7 +45,8 @@
 - <a href="https://alpha.wallhaven.cc">Wallhaven</a>  
 - <a href="https://lichess.org">Lichess</a>  
 - <a href="https://hckrnews.com/">Hckrnews</a>  
-<div>
+</div>
+</div>
 
 <script src="search.js" type="text/javascript"></script>
 

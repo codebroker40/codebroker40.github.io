@@ -36,17 +36,9 @@ h1, h2, h3, h4 {
     border-radius: 10px;		
 }
 
-#general.links  {
+#uni, #other, #general {
     float: left;
+    display: inline;
     width: 33%;
 }
 
-#uni.links {
-    float: center;
-    width: 33%;
-}
-
-#other.links {
-    float: right;
-    width: 33%;
-}
