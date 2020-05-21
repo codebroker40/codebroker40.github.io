@@ -35,3 +35,18 @@ h1, h2, h3, h4 {
     border: transparent;
     border-radius: 10px;		
 }
+
+#links.general  {
+    float: left;
+    width: 33%;
+}
+
+#links.uni {
+    float: center;
+    width: 33%;
+}
+
+#links.right {
+    float: right;
+    width: 33%;
+}
