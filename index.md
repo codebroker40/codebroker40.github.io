@@ -12,6 +12,7 @@
 <input id="searchbox" placeholder="type" type="text">
 
 <div class="links" id="general">
+
 ### GENERAL
 
 - <a href="https://twitter.com/">Twitter</a>  
@@ -23,6 +24,7 @@
 </div>
 
 <div class="links" id="uni">
+
 ### UNI
 
 - <a href="https://my5.millersville.edu">MU</a>  
@@ -33,6 +35,7 @@
 </div>
 
 <div class="links" id="other">
+
 ### BS
 
 - <a href="https://www.mtggoldfish.com/">Goldfish</a>  
