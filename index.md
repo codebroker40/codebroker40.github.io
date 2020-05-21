@@ -11,7 +11,7 @@
 
 <input id="searchbox" placeholder="type" type="text">
 
-<div class="links" id="general">
+<div class="links" id="general" markdown="1">
 
 ### GENERAL
 
@@ -23,7 +23,7 @@
 - <a href="https://www.gmail.com">Mail</a>  
 </div>
 
-<div class="links" id="uni">
+<div class="links" id="uni" markdown="1">
 
 ### UNI
 
@@ -34,7 +34,7 @@
 - <a href="https://autolab.millersville.edu">Autolab</a>  
 </div>
 
-<div class="links" id="other">
+<div class="links" id="other" markdown="1">
 
 ### BS
 
