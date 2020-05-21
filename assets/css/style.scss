@@ -4,9 +4,11 @@
 @import "{{ site.theme }}";
 
 body {
-  font-color: aliceblue;
-  background-image: url("https://raw.githubusercontent.com/ColeW-Picaro/ColeW-Picaro.github.io/master/assets/css/background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  
+    background-image: url("https://raw.githubusercontent.com/ColeW-Picaro/ColeW-Picaro.github.io/master/assets/css/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+p {
+    font-color: aliceblue;
 }
