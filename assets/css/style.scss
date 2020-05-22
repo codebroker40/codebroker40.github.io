@@ -6,7 +6,7 @@
 body {
     background-image: url("https://raw.githubusercontent.com/ColeW-Picaro/ColeW-Picaro.github.io/master/assets/css/background.jpg");
     background-repeat: no-repeat;
-    background-size: cover;  
+    background-size: auto;  
 }
 
 #content {
@@ -40,5 +40,16 @@ h1, h2, h3, h4 {
     float: left;
     display: inline;
     width: 33%;
+}
+
+.links {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;    
+}
+
+content > .links {
+    vertical-align: middle;
 }
 
