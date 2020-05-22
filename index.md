@@ -12,7 +12,7 @@
 <input id="searchbox" placeholder="type" type="text">
 
 <div class="links">
-<div id="general" markdown="1">
+<div id="gen" markdown="1">
 
 ### GENERAL
 
@@ -26,7 +26,7 @@
 
 <div id="uni" markdown="1">
 
-### UNI
+### MU
 
 - <a href="https://my5.millersville.edu">MU</a>  
 - <a href="https://millersville.desire2learn.com/d2l/home">D2L</a>  
@@ -46,6 +46,7 @@
 - <a href="https://lichess.org">Lichess</a>  
 - <a href="https://hckrnews.com/">Hckrnews</a>  
 </div>
+
 </div>
 
 <script src="search.js" type="text/javascript"></script>
