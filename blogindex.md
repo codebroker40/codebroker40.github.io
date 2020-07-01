@@ -13,3 +13,4 @@
 - [Machine Learning Writes Half of my Code](blog/05202020.html)
 - [A few words about Black Lives Matter](blog/06022020.html)
 - [Universal Card Game Fundamentals](blog/06072020.html)
+- [Persona 5 is not too easy, it's accessible](blog/07012020.md)
