@@ -1,3 +1,7 @@
+---
+title: index
+---
+
 <head>
 <meta charset="UTF-8">
 <title>time to open twitter...</title>
