@@ -5,7 +5,6 @@ title: Blog Index
 
 <head>
   <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="style.css">
   <title>time to open blogs...</title>
   <link rel="shortcut icon" href="favicon.ico">
 </head>
