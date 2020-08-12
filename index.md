@@ -8,17 +8,26 @@ title: index
 <link rel="shortcut icon" href="favicon.ico">
 </head>
 
-<a href="index.html">Home</a>  
-<a href="blogindex.html">Blog</a>  
+<div id="topbar">
+<a href="index.html">Home</a> <a href="blogindex.html">Blog</a>  
+</div>
+
+<div id="title">
 
 # Welcome Home
 
+</div>
+
+
 <input id="searchbox" placeholder="type" type="text">
 
-<div class="links">
-<div id="gen" markdown="1">
+<div id="link-content">
+
+<div id="gen" class="link-container" markdown="1">
 
 ### GENERAL
+
+<div class="links">
 
 - <a href="https://twitter.com/">Twitter</a>  
 - <a href="https://www.youtube.com/">YouTube</a>  
@@ -28,9 +37,14 @@ title: index
 - <a href="https://www.gmail.com">Mail</a>  
 </div>
 
-<div id="uni" markdown="1">
+</div>
+
+
+<div id="uni" class="link-container" markdown="1">
 
 ### MU
+
+<div class="links">
 
 - <a href="https://my5.millersville.edu">MU</a>  
 - <a href="https://millersville.desire2learn.com/d2l/home">D2L</a>  
@@ -39,9 +53,13 @@ title: index
 - <a href="https://autolab.millersville.edu">Autolab</a>  
 </div>
 
-<div id="other" markdown="1">
+</div>
+
+<div id="other" class="link-container" markdown="1">
 
 ### BS
+
+<div class="links">
 
 - <a href="https://www.mtggoldfish.com/">Goldfish</a>  
 - <a href="https://www.archive.org/">Archive</a>  
@@ -49,6 +67,8 @@ title: index
 - <a href="https://alpha.wallhaven.cc">Wallhaven</a>  
 - <a href="https://lichess.org">Lichess</a>  
 - <a href="https://hckrnews.com/">Hckrnews</a>  
+</div>
+
 </div>
 
 </div>

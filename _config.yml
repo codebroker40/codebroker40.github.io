@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
-
 markdown: CommonMarkGhPages
+theme: jekyll-theme-cayman
+baseurl: /
+
+plugins:
+  - jekyll-seo-tag
+
