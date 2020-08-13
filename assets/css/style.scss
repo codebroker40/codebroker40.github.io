@@ -53,7 +53,7 @@ hr {
   margin-top: 20px;
   background-color: var(--background);
   opacity: 80%;
-  border-radius: 10px;
+  border-radius: 20px;
   margin-left: 20%;
   margin-right: 20%;
   padding: 2rem 6rem;
@@ -82,7 +82,7 @@ hr {
   font-size: 200%;
 }
 
-#title h1 {
+#title h1, .blog h1 {
   color: var(--orange) !important;
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -194,4 +194,24 @@ hr {
 
 #posts a {
   color: var(--pink);
+}
+
+/* Blog posts */
+.blog p, .blog ol {
+  color: var(--foreground);
+}
+
+.blog h3 {
+  color: var(--green);
+}
+
+pre {
+  background-color: var(--current);
+  opacity: 100%;
+  overflow: auto;
+}
+
+code {
+  color: var(--pink);
+  font-family: monospace;  
 }

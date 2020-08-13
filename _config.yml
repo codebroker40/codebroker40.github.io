@@ -5,3 +5,5 @@ baseurl: /
 plugins:
   - jekyll-seo-tag
 
+sass:
+  sass_dir: assets/css
