@@ -8,14 +8,25 @@ title: Blog Index
   <title>time to open blogs...</title>
   <link rel="shortcut icon" href="favicon.ico">
 </head>
-<div id="sitelinks">
-  <a href="index.html">Home</a><br>
-  <a href="blog/blogindex.html">Blog</a>
+
+<div id="topbar">
+  <a href="index.html">Home</a> <a href="blogindex.html">Blog</a>
 </div>
 
+<div id="title">
+
 # Posts or something
-- [My Favorite STL Container](blog/05192020.html)  
-- [Machine Learning Writes Half of my Code](blog/05202020.html)  
-- [A few words about Black Lives Matter](blog/06022020.html)  
-- [Universal Card Game Fundamentals](blog/06072020.html)  
+
+</div>
+
+<div id="posts">
+
 - [Persona 5 is not too easy, it's accessible](blog/07012020.md)  
+- [Universal Card Game Fundamentals](blog/06072020.html)  
+- [A few words about Black Lives Matter](blog/06022020.html)  
+- [Machine Learning Writes Half of my Code](blog/05202020.html)  
+- [My Favorite STL Container](blog/05192020.html)  
+
+</div>
+
+
