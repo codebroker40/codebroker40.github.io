@@ -78,8 +78,10 @@ title: index
 
 <div class="links">
 
-* <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/rice/">Rice</a>
-* <a href="https://www.reddit.com/r/chess">Chess</a>
+* <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/rice/">Rice</a>  
+* <a href="https://www.reddit.com/r/chess">Chess</a>  
+* <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/dev/">Dev</a>  
+
 
 </div>
 
