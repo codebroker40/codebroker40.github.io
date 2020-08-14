@@ -6,6 +6,32 @@ title: index
 <meta charset="UTF-8">
 <title>time to open twitter...</title>
 <link rel="shortcut icon" href="favicon.ico">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<link rel="stylesheet" href="mastodon.widget.css" />
+<script type="text/javascript" src="mastodon.widget.js"></script>
+<script>
+$(document).ready(function() {
+// jQUERY is required!
+  var mapi = new MastodonApi({
+    target_selector  : '#myTimeline'
+    ,instance_uri    : 'https://fosstodon.org/'
+    ,access_token    : 'FFUVSu8kWag0mOtWC2_rZ6Hr5OjB4Zk6Ohqs-y1nZvI'
+    ,account_id      : '258064'
+    // optional parameters
+    // ===================
+    // - status max
+    //,toots_limit     : 5
+    // - if you are using font-awesome:
+    //,pic_icon        : '<i class="fa fa-picture-o"></i>'
+    // or a picture
+    //,pic_icon        : '<img src="mypicicon.gif" />'
+  });
+});
+
+</script>
+
 </head>
 
 <div id="topbar">
@@ -92,3 +118,4 @@ title: index
 
 <script src="search.js" type="text/javascript"></script>
 
+<div id="myTimeline" class="mastodon-timeline mastodon-timeline-dark"></div>
