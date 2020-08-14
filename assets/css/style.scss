@@ -54,10 +54,11 @@ hr {
   background-color: var(--background);
   opacity: 80%;
   border-radius: 20px;
-  margin-left: 20%;
-  margin-right: 20%;
+  display: flexbox;
+  margin: 0 auto 0 auto;
   padding: 2rem 6rem;
   font-size: 1.1rem;
+  width: fit-content;
 }
 
 /* Top bar */
@@ -118,11 +119,16 @@ hr {
   display: table;
   width: 100%;
   padding: 0;
-  overflow: hidden;
-  table-layout: fixed;
+  overflow: hidden;  
 }
 
-/* Link container */
+/* Link containers */
+.link-container {
+  display: table-cell;
+  text-align: center;
+  width: fit-content;
+}
+
 .link-container ul {
   list-style-type: none;
   margin: 0;
@@ -133,12 +139,6 @@ hr {
   margin-left: 0;
 }
 
-.link-container {
-  display: table-cell;
-  flex: 1;
-  text-align: center;
-}
-
 .link-container h3 {
   text-align: center;
   color: var(--green);
@@ -147,6 +147,9 @@ hr {
   border-radius: 10px;
   margin: 10px;
   border-width: 2px;
+  padding: 0 10px 0 10px;
+  width: 140px;
+  display: inline-block;
 }
 
 /* Link lists */

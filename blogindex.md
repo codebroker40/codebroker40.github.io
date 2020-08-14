@@ -21,7 +21,8 @@ title: Blog Index
 
 <div id="posts">
 
-- [Persona 5 is not too easy, it's accessible](blog/07012020.md)  
+- [Muffinwoman: A simple discord music bot](blog/08142020.html)
+- [Persona 5 is not too easy, it's accessible](blog/07012020.html)  
 - [Universal Card Game Fundamentals](blog/06072020.html)  
 - [A few words about Black Lives Matter](blog/06022020.html)  
 - [Machine Learning Writes Half of my Code](blog/05202020.html)  
