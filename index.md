@@ -57,9 +57,9 @@ $(document).ready(function() {
 * <a href="https://twitter.com/">Twitter</a>  
 * <a href="https://www.youtube.com/">YouTube</a>  
 * <a href="https://www.twitch.tv/colew_picaro">Twitch</a>  
-* <a href="https://discordapp.com/channels/@me">Discord</a>  
 * <a href="https://www.github.com">GitHub</a>  
 * <a href="https://www.gmail.com">Mail</a>  
+* <a href="https://midnight.pub/">Midnight</a>
 
 </div>
 
@@ -100,14 +100,14 @@ $(document).ready(function() {
 
 <div id="multi" class="link-container" markdown="1">
 
-### MULTIS
+### Boards
 
 <div class="links">
 
 * <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/rice/">Rice</a>  
 * <a href="https://www.reddit.com/r/chess">Chess</a>  
 * <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/dev/">Dev</a>  
-
+* <a href="https://boards.4chan.org/wg/catalog">/wg/</a>
 
 </div>
 
