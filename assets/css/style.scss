@@ -154,12 +154,13 @@ hr {
 
 /* Link lists */
 .links li {
-  text-align: center;
+  text-align: left;
+  padding-left: 15%;
 }
 
 .links ul {
-  text-align: center;
-  padding: 0;
+  text-align: left;
+  padding-left: 15%;
 }
 
 #gen a {

@@ -12,7 +12,7 @@ title: index
 </head>
 
 <div id="topbar">
-<a href="index.html">Home</a> <a href="blogindex.html">Blog</a>  
+<a href="index.html">home</a> <a href="blogindex.html">blog</a>  
 </div>
 
 <div id="title">
@@ -31,13 +31,13 @@ title: index
 
 <div class="links">
 
-* <a href="https://twitter.com/">Twitter</a>  
-* <a href="https://www.youtube.com/">YouTube</a>  
-* <a href="https://www.twitch.tv/colew_picaro">Twitch</a>  
-* <a href="https://www.github.com">GitHub</a>  
-* <a href="https://www.gmail.com">Mail</a>  
-* <a href="https://midnight.pub/">Midnight</a>
-* <a href="https://fosstodon.org/">Mastodon</a>
+* <a href="https://twitter.com/">twitter</a>  
+* <a href="https://www.youtube.com/">youtube</a>  
+* <a href="https://www.twitch.tv/colew_picaro">twitch</a>  
+* <a href="https://www.github.com">github</a>  
+* <a href="https://www.gmail.com">mail</a>  
+* <a href="https://midnight.pub/">midnight</a>
+* <a href="https://fosstodon.org/">mastodon</a>
 
 
 </div>
@@ -50,11 +50,12 @@ title: index
 
 <div class="links">
 
-* <a href="https://my5.millersville.edu">MU</a>  
-* <a href="https://millersville.desire2learn.com/d2l/home">D2L</a>  
+* <a href="https://my5.millersville.edu">mu</a>  
+* <a href="https://millersville.desire2learn.com/d2l/home">d2l</a>  
 * <a href="https://cs.millersville.edu/~wkillian">k</a>  
-* <a href="https://cs.millersville.edu/~gzoppetti">z</a>  
-* <a href="https://autolab.millersville.edu">Autolab</a>  
+* <a href="https://cs.millersville.edu/~trogers">r</a>  
+* <a href="https://autolab.millersville.edu">autolab</a> 
+* <a href="https://cs.millersville.edu/~wkillian/books">books</a>   
 
 </div>
 
@@ -66,12 +67,12 @@ title: index
 
 <div class="links">
 
-* <a href="https://www.mtggoldfish.com/">Goldfish</a>  
-* <a href="https://www.archive.org/">Archive</a>  
-* <a href="https://www.cstimer.net/">Timer</a>  
-* <a href="https://alpha.wallhaven.cc">Wallhaven</a>  
-* <a href="https://lichess.org">Lichess</a>  
-* <a href="https://hckrnews.com/">Hckrnews</a>  
+* <a href="https://www.mtggoldfish.com/">goldfish</a>  
+* <a href="https://www.archive.org/">archive</a>  
+* <a href="https://www.cstimer.net/">timer</a>  
+* <a href="https://alpha.wallhaven.cc">wallhaven</a>  
+* <a href="https://lichess.org">lichess</a>  
+* <a href="https://hckrnews.com/">hckrnews</a>  
 
 </div>
 
@@ -79,14 +80,16 @@ title: index
 
 <div id="multi" class="link-container" markdown="1">
 
-### Boards
+### FORUMS
 
 <div class="links">
 
-* <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/rice/">Rice</a>  
-* <a href="https://www.reddit.com/r/chess">Chess</a>  
-* <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/dev/">Dev</a>  
+* <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/rice/">rice</a>  
+* <a href="https://www.reddit.com/r/chess">chess</a>  
+* <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/dev/">dev</a>  
 * <a href="https://boards.4chan.org/wg/catalog">/wg/</a>
+* <a href="https://wiki.archlinux.org/">arch</a>
+* <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/keeb/">keeb</a>
 
 </div>
 
