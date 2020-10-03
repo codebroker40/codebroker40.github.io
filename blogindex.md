@@ -21,13 +21,13 @@ title: Blog Index
 
 <div id="posts">
 
+- [My Thoughts on The Social Dilemma](blog/10032020.html)  
 - [Muffinwoman: A simple discord music bot](blog/08142020.html)
 - [Persona 5 is not too easy, it's accessible](blog/07012020.html)  
 - [Universal Card Game Fundamentals](blog/06072020.html)  
 - [A few words about Black Lives Matter](blog/06022020.html)  
 - [Machine Learning Writes Half of my Code](blog/05202020.html)  
 - [My Favorite STL Container](blog/05192020.html)  
-- [My Thoughts on The Social Dilemma](blog/10032020.html)  
 
 </div>
 
