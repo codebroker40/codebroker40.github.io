@@ -1,5 +1,5 @@
 ---
-date: date
+date: 2020-11-05 00:00:00
 title: title
 excerpt:
 layout: post
