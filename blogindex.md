@@ -7,6 +7,7 @@ title: Blog Index
   <meta charset="UTF-8">
   <title>time to open blogs...</title>
   <link rel="shortcut icon" href="favicon.ico">
+  <link rel="alternate" type="application/atom+xml" title="ColeW's World" href="../feed.xml">
 </head>
 
 <div id="topbar">
