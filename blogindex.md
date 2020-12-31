@@ -22,6 +22,7 @@ title: Blog Index
 
 <div id="posts">
 
+- [My 2020](blog/12312020.html)  
 - [My Thoughts on The Social Dilemma](blog/10032020.html)  
 - [Muffinwoman: A simple discord music bot](blog/08142020.html)
 - [Persona 5 is not too easy, it's accessible](blog/07012020.html)  
