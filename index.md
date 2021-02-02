@@ -36,26 +36,9 @@ title: index
 * <a href="https://www.twitch.tv/colew_picaro">twitch</a>  
 * <a href="https://www.github.com">github</a>  
 * <a href="https://www.gmail.com">mail</a>  
-* <a href="https://midnight.pub/">midnight</a>
-* <a href="https://fosstodon.org/">mastodon</a>
-
-
-</div>
-
-</div>
-
-<div id="uni" class="link-container" markdown="1">
-
-### MU
-
-<div class="links">
-
-* <a href="https://my5.millersville.edu">mu</a>  
-* <a href="https://millersville.desire2learn.com/d2l/home">d2l</a>  
-* <a href="https://cs.millersville.edu/~wkillian">k</a>  
-* <a href="https://cs.millersville.edu/~trogers">r</a>  
-* <a href="https://autolab.millersville.edu">autolab</a> 
-* <a href="https://cs.millersville.edu/~wkillian/books">books</a>   
+* <a href="https://fosstodon.org/">mastodon</a>  
+* <a href="https://protonmail.com/">pmail</a>  
+* <a href="https://linkedin.com/">linkedin</a>  
 
 </div>
 
@@ -73,6 +56,7 @@ title: index
 * <a href="https://alpha.wallhaven.cc">wallhaven</a>  
 * <a href="https://lichess.org">lichess</a>  
 * <a href="https://hckrnews.com/">hckrnews</a>  
+* <a href="https://midnight.pub/">midnight</a>  
 
 </div>
 
@@ -86,10 +70,10 @@ title: index
 
 * <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/rice/">rice</a>  
 * <a href="https://www.reddit.com/r/chess">chess</a>  
-* <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/dev/">dev</a>  
 * <a href="https://boards.4chan.org/wg/catalog">/wg/</a>
 * <a href="https://wiki.archlinux.org/">arch</a>
 * <a href="https://www.reddit.com/user/shoopmywhoopRLB/m/keeb/">keeb</a>
+* <a href="https://www.geekhack.org">gh</a>
 
 </div>
 
